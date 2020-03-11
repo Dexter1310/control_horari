@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Control horario</string>
+    <string name="btn2">Nuevo Usuario</string>
+    <string name="texto1">Registro de horario diario</string>
+    <string name="texto2">REGISTRO DE EMPLEADO</string>
+    <string name="registro_del_administrador">REGISTRO DE ADMINISTRADOR</string>
+    <string name="btn3">Atras</string>
+    <string name="salir">Salir</string>
+    <string name="btn4">Empleados</string>
+    <string name="guardar">Ok</string>
+    <string name="historial">Calendario</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="fichar">OK</string>
+    <string name="agrega_administrador">Crea Administrador</string>
+    <string name="acceso">Acceso</string>
+    <string name="bienvenido">Hola</string>
+    <string name="entrada">Entrada</string>
+    <string name="salida">Salida</string>
+    <string name="hora_entrada">Hora de entrada:</string>
+    <string name="hora_salida">Hora de salida:</string>
+    <string name="horario">fecha</string>
+    <string name="titAdmin">Administrador</string>
+    <string name="listado">Listado</string>
+    <string name="string_resource_name"><![CDATA[<b> Your text </b>]]> </string>
+</resources>
